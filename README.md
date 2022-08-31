@@ -4,7 +4,6 @@
 
 <a href="https://velog.io/@m1naworld" target="_blank"><img src="http://img.shields.io/badge/Velog-20c997?style=for-the-badge"/></a>
 
-<br/>
 
 <!-- <div align=center> -->
   
